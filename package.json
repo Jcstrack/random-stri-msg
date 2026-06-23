@@ -1,0 +1,28 @@
+{
+  "name": "random-stri-msg",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jcstrack/random-stri-msg.git"
+  },
+  "keywords": [],
+  "author": "Juan Ulloa <juanculloacampos@gmail.com>",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Jcstrack/random-stri-msg/issues"
+  },
+  "homepage": "https://github.com/Jcstrack/random-stri-msg#readme",
+  "bin": {
+    "random-stri-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
